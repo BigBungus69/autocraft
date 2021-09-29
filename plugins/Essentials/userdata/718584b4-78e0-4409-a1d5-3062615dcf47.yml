@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632846672615
+  login: 1632846305055
+money: '0'
+last-account-name: Vairexin
+logoutlocation:
+  world: 0c634ec4-6e06-4b6a-b605-bef3d5a148d1
+  world-name: world
+  x: -296.17209901211567
+  y: 63.567256994406584
+  z: 173.27272275292324
+  yaw: -42.62525177001953
+  pitch: 50.09994125366211
